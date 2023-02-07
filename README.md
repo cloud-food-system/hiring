@@ -1,2 +1,1 @@
-# hiring
-Opening positions in Cloud Food System
+# Opening positions in Cloud Food System
